@@ -1,5 +1,3 @@
-console.log("Client side JS is loaded");
-
 // fetch("http://localhost:4000/weather?address=philadelphia").then((response) => {
 //   response.json().then((data) => {
 //     if (data.error) {
