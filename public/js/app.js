@@ -11,7 +11,7 @@
 
 const weatherForm = document.querySelector("form");
 const search = document.querySelector("input");
-const url = "http://localhost:4000/weather?address=";
+const url = "/weather?address=";
 const messageOne = document.querySelector("#message-1");
 const messageTwo = document.querySelector("#message-2");
 
